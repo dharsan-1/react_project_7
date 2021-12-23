@@ -1,0 +1,22 @@
+.background {
+  background-color: white;
+  text-align: center;
+  background-size: cover;
+  height: 100vh;
+  padding-top: 200px;
+}
+
+.heading {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.button {
+  border-radius: 3px;
+  background-color: palevioletred;
+  color: white;
+  border-width: 0px;
+  padding: 10px;
+  text-align: center;
+}
